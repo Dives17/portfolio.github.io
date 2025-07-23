@@ -19,7 +19,7 @@ Welcome to my personal portfolio website! This is a responsive and interactive w
 
 ## 📸 Demo
 
-[👉 Live Demo](dives17.github.io/portfolio.github.io/)  
+[👉 Live Demo](https://dives17.github.io/portfolio.github.io/)  
 
 ## 🧠 What I Learned
 
