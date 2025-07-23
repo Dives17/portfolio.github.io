@@ -21,17 +21,6 @@ Welcome to my personal portfolio website! This is a responsive and interactive w
 
 [👉 Live Demo](dives17.github.io/portfolio.github.io/)  
 
-## 📁 Folder Structure
-
-portfolio/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│ ├── images/
-│ └── resume.pdf (optional)
-└── README.md
-
 ## 🧠 What I Learned
 
 - How to structure and style a responsive website using only HTML & CSS
